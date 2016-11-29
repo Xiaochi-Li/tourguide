@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorPrimaryLight">#FFE0B2</color>
+    <color name="Text">#212121</color>
+
+    <color name="colorAccent">#00bcd4</color>
+
+    <color name="UQ">#F2385A</color>
+    <color name="south_bank">#F5A503</color>
+    <color name="mt_lookout">#4AD9D9</color>
+    <color name="gallery">#36B1BF</color>
+    <color name="backgound_color">#E9F1DF</color>
+</resources>

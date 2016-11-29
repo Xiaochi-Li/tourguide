@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">tour guide</string>
+    <string name="place_UQ">University of Queensland</string>
+    <string name="place_South_bank">South Bank</string>
+    <string name="place_Modern_Art_Gallery">Modern Art Gallery</string>
+    <string name="plact_MtCootTha_Lookout">Mt. Coot-Tha Lookout</string>
+
+    <string name="Gallery_event">MARVEL CREATING THE CINEMATIC UNIVERSE</string>
+    <string name="discription_Gallery_event">G27 MAY 2017 – 3 SEP 2017
+GOMA | GALLERY 1.1 THE FAIRFAX GALLERY, GALLERY 1.2, GALLERY 1.3, CINEMA A, CINEMA B | TICKETED</string>
+    <string name="Gallery_food">GOMA Cafe Bistro</string>
+    <string name="discription_Gallery_food">QAGOMA operates its own restaurant and cafés using seasonal local produce, which are inspired by the art on display. Every purchase supports the Gallery</string>
+
+    <string name="mt_hiking_track">Mt Coot-tha Forest track</string>
+    <string name="discription_mt_event">Mt Coot-tha Forest offers an extensive network of diverse tracks
+        and trails to cater for nature-based recreation activities.</string>
+    <string name="mt_food">SUMMIT RESTAURANT</string>
+    <string name="discription_mt_food">The gemstone of Brisbane Lookout, Summit Restaurant and Bar is an
+        award-winning spot perfect for whiling away the hours.</string>
+
+    <string name="uq_cinema">Schonell Theatr</string>
+    <string name="discription_uq_cinema">Hire Schonell Cinema or catch the latest art-house, foreign and independent films at the University of Queensland, St Lucia.</string>
+    <string name="uq_food">Pizza Caffe</string>
+    <string name="discription_uq_food">A popular place serving crispy pizzas for delivery or to eat at long tables in a breezy dining area.</string>
+
+    <string name="sb_cinema">The Wheel Of Brisbane</string>
+    <string name="discription_sb_cinema">Enclosed gondolas carry visitors 200 feet into the air day \u0026 night for panoramic views of Brisbane.</string>
+    <string name="sb_food">Bamboo Basket</string>
+    <string name="discription_sb_food">Sleek Chinese restaurant with handmade dumplings and other specialities prepared in a glass kitchen.</string>
+
+</resources>
